@@ -25,7 +25,7 @@ p{
 #first{
     background-image: url("image/top-banner.png");
     background-repeat: no-repeat;
-    
+   margin-top: -16px;
 }
 
 .button{
