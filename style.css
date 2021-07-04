@@ -54,3 +54,34 @@ section{
     margin-left: 6%;
     float: left;
 }
+#third{
+    margin-top: 120px;
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.half3{
+    float: left;
+    width: 40%;
+    margin-left: 6%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px;
+    height: 50%;
+    background-color: white;
+}
+#border1{
+  border-left: 5px solid;
+  border-image: linear-gradient(tomato, purple);
+  border-image-slice: 1;
+}
+#border2{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.last{
+    margin-left: 6%;
+}
+footer p{
+    text-align: center;
+}
